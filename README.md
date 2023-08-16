@@ -4,6 +4,34 @@ Build a Vue.js 3 CRUD example to consume REST APIs, display and modify data usin
 - We can create, retrieve, update, delete Tutorials.
 - There is a Search bar for finding Tutorials by title.
 
+## Overview
+
+Home
+![Home](Home.png)
+
+Create
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+Replace
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
+
+Update
+![Update](Update.png)
+
+![Update2](Update2.png)
+
+Delete
+![Alt text](image-4.png)
+
+![Alt text](image-5.png)
+
+Search
+![Alt text](image-6.png)
+
 ## Project setup
 ```
 npm install
